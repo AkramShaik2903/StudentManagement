@@ -25,19 +25,6 @@ Validations for input data
 Exception handling for invalid requests
 API documentation and testing with Swagger
 
-StudentManagementSystem
-│── src
-│   ├── main
-│   │   ├── java/com/akram/projects/StudentManagementSystem
-│   │   │   ├── controller    # REST Controllers
-│   │   │   ├── entity        # Student Entity
-│   │   │   ├── repository    # JPA Repository
-│   │   │   ├── service       # Service Layer
-│   │   │   └── exception     # Global Exception Handling
-│   │   └── resources
-│   │       ├── application.properties  # DB Config
-│   └── test 
-│── pom.xml
 
 **📌 API Endpoints**
 Method	Endpoint	Description
