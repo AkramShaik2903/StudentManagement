@@ -3,13 +3,18 @@
 📌 Project Overview
 
 The Student Management System is a backend application built using Spring Boot to manage student records.
+
 It provides REST APIs for performing CRUD operations such as adding, updating, deleting, and fetching student details.
+
 The project uses MySQL as the database, Lombok for reducing boilerplate code, and Swagger for API documentation and testing.
 
 **🚀 Tech Stack**
 Java
+
 Spring Boot
+
 Spring Data JPA (Hibernate)
+
 MySQL
 Lombok
 Swagger / Springdoc OpenAPI
